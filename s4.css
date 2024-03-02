@@ -1,0 +1,47 @@
+
+*{
+    padding:0;
+    margin:0;
+    color: antiquewhite;
+}
+#nav{
+    height: 60px;
+    background-color: #0f1111;
+    border :10px solid white;
+}
+
+button{
+    color: #090909;
+    background-color: #f08804;
+}   
+#logo {
+    color:#f08804;
+    font-size: 25px;
+}
+body{
+    background-color: rgb(1, 1, 47,1);
+}
+a{
+    margin-right: 140px;
+}
+/*div{
+    
+}*/
+.myBox {
+    height: 100px;
+    width: 100px;
+    border: 4px;
+    display:inline-block;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+#my
+{
+    height: 72 0px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    font-size: 50;
+    text-align: center;
+}
